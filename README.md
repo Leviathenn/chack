@@ -6,7 +6,7 @@ Made By[ BioShot](https://github.com/BioShot)
 
 
 
-# Building
+## Building
 
 To Build this project you must have [Visual Studio 2022](https://c2rsetup.officeapps.live.com/c2r/downloadVS.aspx?sku=community&channel=Release&version=VS2022&source=BioShotChack) along with the C/C++ Developer tools(Which can be install with [Visual Studio 2022](https://c2rsetup.officeapps.live.com/c2r/downloadVS.aspx?sku=community&channel=Release&version=VS2022&source=BioShotChack))
 
