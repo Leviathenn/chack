@@ -36,7 +36,7 @@ If you would like the full [Error](https://github.com/BioShot/chack/assets/86807
    "%VSINSTALLDIR%\Msbuild\Current\Bin\MSBuild.exe" chack.sln /p:Configuration=Debug /p:Platform="x64"
 
 ```
-
+ 
 # x86
 
 ```bash
