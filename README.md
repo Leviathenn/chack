@@ -19,4 +19,4 @@ It will return this [error](https://github.com/BioShot/chack/assets/86807700/a8e
 
 
 ![gcrrer](https://github.com/BioShot/chack/assets/86807700/a8e5518c-6843-4543-b362-8c4b1da5d5f8)
-If you would like the full [Error](https://github.com/BioShot/chack/assets/86807700/a8e5518c-6843-4543-b362-8c4b1da5d5f8), Please click [Here](https://ccpt.bioshot.repl.co)
+If you would like the full [Error](https://github.com/BioShot/chack/assets/86807700/a8e5518c-6843-4543-b362-8c4b1da5d5f8), Please click <a href="https://ccpt.bioshot.repl.co" target="_blank"> ***Here*** </a>
