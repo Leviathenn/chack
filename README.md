@@ -55,7 +55,7 @@ Unfortunately I was not able to find a way to build [This Project](https://githu
 # Errors / Cons
 Can only read one string. Spaces for some reason don't work. (Lines [111 - 158](https://github.com/BioShot/chack/blob/69ea89234bf2815151ced5c18de006a7b47b92fe/chack.cpp#LL111C1-L158C17))
 
-I wrote this intire documentation by my self.
+I wrote this enire documentation by my self.
 
 
 Loop count broken for some reason. It was working earlier but I guess it doesn't anymore. (Lines [99 - 144](https://github.com/BioShot/chack/blob/69ea89234bf2815151ced5c18de006a7b47b92fe/chack.cpp#LL99C1-L144C25))
@@ -64,4 +64,4 @@ Exit text not working. Can't get it working. (Lines [115 - 117](https://github.c
 
 # Conclusion
 
-This was a really fun project to work on! This was my first real c++ project. I will start to add more features along the way but any fixes to the edit text will be appreatiated. I don't copy your code so if my feature is added and you did it. chances are I didn't see it. So don't say I copied it. But yeah, Enjoy! ~BioShot
+This was a really fun project to work on! This was my first real c++ project. I will start to add more features along the way but any fixes to the edit text will be appreatiated. I don't copy your code so if my feature is added and you did it. chances are I didn't see it. So don't say I copied it. But yeah, Enjoy! ~Leviathenn
